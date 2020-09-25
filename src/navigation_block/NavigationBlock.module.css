@@ -1,0 +1,9 @@
+.nav {
+    border: 1px solid;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: max-content;
+    width: 400px;
+    font-size: 150%;
+}

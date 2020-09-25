@@ -1,0 +1,24 @@
+.project_container {
+    background-color: rgba(128, 0, 126, 0.15);
+    height: 100vh;
+}
+
+.project_box {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+}
+
+.projects {
+    width: 100%;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.title {
+    border: 1px solid;
+    background-color: #9fbfab;
+}

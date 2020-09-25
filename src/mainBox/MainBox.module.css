@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 100vh;
+    background-color: rgba(255, 0, 255, 0.23);
+}
+
+.text {
+    border: 1px solid;
+    width: 300px;
+    background-color: rgba(144, 238, 144, 0.27);
+    height: max-content;
+}
+
+.photo {
+    border: 1px solid;
+    width: 350px;
+    height: 400px;
+    background-color: rgba(144, 238, 144, 0.27);
+
+}
