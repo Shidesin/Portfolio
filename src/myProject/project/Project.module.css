@@ -3,7 +3,7 @@
     flex-direction: column;
     align-items: center;
     border: 1px solid;
-    max-width: 300px;
+    width: 300px;
     background-color: rgba(100, 232, 237, 0.27);
     text-align: center;
 }

@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 25vh;
+    background-color: rgba(0, 255, 247, 0.23);
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.footer {
+    border: 1px solid;
+    min-height: 30px;
+    width: max-content;
+    height: 20px;
+}
+
+.selfer_footer {
+    text-align: center;
+}
