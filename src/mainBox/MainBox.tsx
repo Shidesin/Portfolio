@@ -8,7 +8,8 @@ function MainBox() {
         <div className={styles.container}>
             <div className={common_style.content_box}>
                 <div className={styles.text}>
-                    <div>Link block</div>
+                    <div> Link block: аля моя инста, линкед, заведу facebook и гит.
+                        и да, их можнов отдельную компоненту, но чуть позже</div>
                     <h2>I am Alex Shidesin</h2>
                     <span>Na danniy moment hui poymi chto....</span>
                 </div>

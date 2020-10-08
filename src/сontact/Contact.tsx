@@ -9,7 +9,7 @@ function Contact() {
         <div className={styles.container}>
             <div className={`${common_style.content_box} ${styles.content_box}`}>
                 <h2>Contact</h2>
-                <div >
+                <div className={styles.form_box} >
                     <form className={styles.form}>
                         <div className={styles.row_class}>
                             <div>
